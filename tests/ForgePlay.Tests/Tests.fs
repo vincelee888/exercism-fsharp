@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module ForgePlay.Tests
 
-open FSharp.ProjectTemplate
+open ForgePlay
 open NUnit.Framework
 
 [<Test>]

@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace ForgePlay
 
 /// Documentation for my library
 ///
