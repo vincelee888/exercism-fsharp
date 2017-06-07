@@ -60,7 +60,8 @@
   -->
   <Import Project="..\..\.paket\paket.targets" />
   <ItemGroup>
-    <Compile Include="Library.fs" />
+    <Compile Include="LeapYear.fs" />
+    <Compile Include="HelloWorld.fs" />
     <None Include="Script.fsx" />
     <None Include="paket.references" />
     <None Include="paket.template" />
