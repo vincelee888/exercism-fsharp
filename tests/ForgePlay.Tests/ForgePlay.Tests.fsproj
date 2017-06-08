@@ -63,6 +63,7 @@
   -->
   <Import Project="..\..\.paket\paket.targets" />
   <ItemGroup>
+    <Compile Include="BobTest.fs" />
     <Compile Include="HelloWorldTests.fs" />
     <Compile Include="LeapYearTest.fs" />
     <None Include="paket.references" />
